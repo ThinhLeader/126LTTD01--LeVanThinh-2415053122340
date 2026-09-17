@@ -26,3 +26,7 @@ Công cụ sử dụng:
 - Vòng lặp
 - Tính tổng và trung bình
 - Tìm giá trị lớn nhất
+  
+### Tuần 2 - Kotlin cơ bản
+
+- Bài tập Kotlin căn bản (Quản lý sinh viên)
