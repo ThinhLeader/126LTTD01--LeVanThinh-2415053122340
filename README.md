@@ -30,3 +30,7 @@ Công cụ sử dụng:
 ### Tuần 2 - Kotlin cơ bản
 
 - Bài tập Kotlin căn bản (Quản lý sinh viên)
+
+### Tuần 3 - Tạo app Android card sinhvien
+
+- Bài card sinhvien (Quản lý sinh viên)
